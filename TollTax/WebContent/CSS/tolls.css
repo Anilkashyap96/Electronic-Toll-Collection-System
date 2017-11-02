@@ -1,0 +1,25 @@
+#menu ul li
+{background-color:blue;
+border:2px solid red;
+width:120px;
+height:35px;
+text-align:center;
+line-height:35px;
+float:center;
+border-radius:10px;
+position:relative;}
+#menu ul li a
+{ 
+ text-decoration:none;
+color:white;
+display:block;}
+h1
+{background-color:yellow;}
+#menu ul
+{scrollbar-base-color:lightgreen;
+   
+list-style:none;}
+#menu ul li a:hover
+{background-color:lightgreen;
+border:2px solid red;
+border-radius:10px;}
